@@ -1,0 +1,12 @@
+POST /formaup.php?test1=val1&test2=&test3=val3 HTTP/1.1
+Host: monitoring.kantiana.ru
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://monitoring.kantiana.ru/
+Cookie: _ym_uid=1491326072127721551; _ga=GA1.2.1787577537.1492609601
+Connection: close
+Content-Length: 710
+
+Kak_davno_Vy_rabotaete_v_universitete=1&K_kakoj_gruppe_otnositsja_Vasha_dolzhnost=1&Vasha_stavka=&Sovmewaete_li_Vy_rabotu=1&Vash_nauchnyj_status=1&Situacija_v_universitete_v_celom=1&kak_situacija_izmenitsja_v_blizhajshie_tri_goda=1&Imeete_li_Vy_predstavlenie_o_strategii_razvitija_universiteta=1&razjasnenija_o_perspektivah_razvitija_universiteta=1&Adekvatnyj_razmer_zarplaty=&Drugoe=&Inoe=&naskolko_polno_Vy_realizuete_svoj_potencial=&Inoe2=&Ne_hvataet_drudoy_informacii=&vashe_mnenie=&Mery_dlja_razvitija_administrativnoj_dejatelnosti=&vozrast=&Kakov_uroven_dohoda_na_chlena_semi=1&svoj_socialnyj_status=%D0%92%D1%8B%D1%81%D0%BE%D0%BA%D0%B8%D0%B9&button=%D0%9E%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C

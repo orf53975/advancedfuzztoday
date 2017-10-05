@@ -1,0 +1,14 @@
+POST /index/authorization HTTP/1.1
+Host: webinar.rgups.ru:8000
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:55.0) Gecko/20100101 Firefox/55.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Referer: http://webinar.rgups.ru:8000/
+Content-Length: 435
+Cookie: _ym_uid=1499198330989255723; _ga=GA1.2.1889518477.1499198330; PHPSESSID=ivkjp4elulmv2bl2leps0apu66; PHPSESSID2=ivkjp4elulmv2bl2leps0apu66; usersSystemCounter_guest=1017094
+Connection: close
+
+start_login=1&login=ddd&password=eee&remember=0&systemInfo%5Bbrowser%5D%5Bname%5D=Firefox&systemInfo%5Bbrowser%5D%5Bvalue%5D=55.0.0&systemInfo%5Bflash%5D%5Bvalue%5D=0.0.0&systemInfo%5Bos%5D%5Bvalue%5D=Windows&systemInfo%5Bscreen%5D%5Bvalue%5D=1536x864&systemInfo%5Bcookie%5D%5Bvalue%5D=1&systemInfo%5Bjs%5D%5Bvalue%5D=1&systemInfo%5Bjava%5D%5Bvalue%5D=&systemInfo%5Bsilverlight%5D%5Bvalue%5D=&systemInfo%5Bacrobat_reader%5D%5Bvalue%5D=
